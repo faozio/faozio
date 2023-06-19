@@ -1,4 +1,4 @@
-i## Hi there 👋 My name is Favour and I am an Azure Cloud + Infrastructure Engineer.
+## Hi there 👋 My name is Favour and I am an Azure Cloud + Infrastructure Engineer.
 ### The Web as I envisaged it, we have not seen it yet. The future is still so much bigger than the past...
 
 - 🔭 I’m currently learning Web Development @ Odin Project.
